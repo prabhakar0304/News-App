@@ -6,7 +6,7 @@ A simple new app build with Kotlin and Java on Android Studio.
 
 Open the project on [Android Studio](https://developer.android.com/studio).
 
-Don't forget the change the [News API ](https://newsapi.org/) and use your own API key.
+Don't forget to change the [News API ](https://newsapi.org/) and use your own API key.
 
 ## Contributing
 
